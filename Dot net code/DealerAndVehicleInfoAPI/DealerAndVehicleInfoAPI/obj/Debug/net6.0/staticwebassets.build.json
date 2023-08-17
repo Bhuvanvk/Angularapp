@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l5gxh0DISLRnizjeWbaSSZKOf6bwfYN94FCESDndzuI=",
+  "Source": "DealerAndVehicleInfoAPI",
+  "BasePath": "_content/DealerAndVehicleInfoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
